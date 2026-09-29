@@ -34,7 +34,7 @@
 ## Структура проекта
 
 ```
-sql-продуктовые метрики/
+sql-product-metrics/
 ├── README.md
 ├── product_SQL_retail_dead.ipynb   — основной ноутбук с анализом
 └── Online Retail.csv               — исходные данные
