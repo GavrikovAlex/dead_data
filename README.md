@@ -4,5 +4,5 @@
 ## Структура
 
 - [SQL](./sql) — SQL-анализ датасета Superstore (запросы, визуализация, бизнес-выводы)
-- [SQL-продуктовые метрики](./sql-product-metrics) — Расчет продуктовых метрик (Retention, LTV, ARPU, ARPPU, ROI) на данных интернет-магазина
+- [SQL-product-metrics](./sql-product-metrics) — Расчет продуктовых метрик (Retention, LTV, ARPU, ARPPU, ROI) на данных интернет-магазина
 - [EDA](./EDA) — Исследовательский анализ данных о влиянии кофе на здоровье
